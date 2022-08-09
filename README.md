@@ -1,6 +1,6 @@
 # Елена Дмитриенко
 
-## Великолепный тестировщик
+## Тестировщик номер 1
 
 
-![Моя фоточка](http://s4.fotokto.ru/photo/full/375/3754768.jpg)
+![Моя фоточка](https://e7.pngegg.com/pngimages/524/102/png-clipart-software-bug-computer-programming-programmer-software-testing-error-cartoon-computer-cartoon-character-hand.png)
